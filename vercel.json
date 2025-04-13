@@ -1,5 +1,5 @@
 {
     "rewrites": [
-      { "source": "/(.*)", "destination": "/Main.html" }
+      { "source": "/(.*)", "destination": "/sloth.html" }
     ]
   }
